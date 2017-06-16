@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="xmlCalc">XML Calculator</string>
+    <string name="programmatic_calculator">Programmatic Calculator</string>
+</resources>
